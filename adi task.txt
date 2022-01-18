@@ -1,0 +1,7 @@
+1234
+Name: aditya
+Age :20
+TASK 1 :complete python skillrack
+TARGET 1 :by tonight
+TASK 2 :party hard
+TARGET 2 :everyday
